@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
+
+.recipe-list {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.recipe-title {
+    color: blue;
+}
+
+.ingredients-title {
+    color: green;
+}
+
+.ingredients {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray'
+}
+
+.steps-title {
+    color: orange;
+}
+
+.steps {
+    font-family:'Courier New', Courier, monospace;
+}
