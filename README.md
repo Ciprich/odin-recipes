@@ -1,3 +1,3 @@
 # Odin Recipes
 
-To Be Determined.
+A fun project outlining how to use lists and anchor tags to display images. 
