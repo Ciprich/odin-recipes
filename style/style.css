@@ -28,22 +28,48 @@ h1 {
 }
 
 .recipe-title {
-    color: blue;
+    color: #db5673;
 }
 
 .ingredients-title {
     color: green;
+    display: block;
+    width: 102%;
+    text-align: center;
 }
 
 .ingredients {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: darkslategray'
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
 }
 
 .steps-title {
     color: orange;
+    text-align: center;
 }
 
 .steps {
     font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 4px;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 475px;
+    height: 400px;
+}
+
+.intro-title {
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
 }
